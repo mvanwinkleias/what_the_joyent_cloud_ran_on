@@ -1,0 +1,13 @@
+{
+   "BASE_DIR" : "/opt/IAS",
+   "installed_directory_layout" : "project_directories-full_project.gmk",
+   "project_name" : "what_the_joyent_cloud_ran_on",
+   "summary" : "Packaging is like, waaaaaaay hard",
+   "AUTOMATION_GROUP" : "iasnetauto",
+   "USE_AUTOMATION_PERMISSIONS" : "0",
+   "ticket" : "",
+   "AUTOMATION_USER" : "iasnetauto",
+   "project_dir" : "what_the_joyent_cloud_ran_on",
+   "wiki_page" : "",
+   "package_name" : "what-the-joyent-cloud-ran-on"
+}
